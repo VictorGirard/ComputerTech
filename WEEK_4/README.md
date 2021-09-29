@@ -9,7 +9,7 @@
 
 * Share the link to your notebook in our Slack channel **\#rae473-course**
 
-* Train yourself with a given exercise using PANDAS (details on the next slide)
+* Train yourself with a given exercise using PANDAS :
 
 	* Use the .csv file and assign it to a dataframe called cars
 
