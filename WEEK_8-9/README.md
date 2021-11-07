@@ -1,4 +1,4 @@
-### This week work ###
+### This week's work ###
 ## Basic work with SQLite3 ##
 
 Task scenario

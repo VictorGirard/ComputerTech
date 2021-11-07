@@ -1,4 +1,4 @@
-### This week work ###
+### This week's work ###
 ## Install and start using MySQL to create databases and manage users ##
 
 * Log in into mysql on your Linux machine **as a root**
